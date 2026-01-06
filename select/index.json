@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シビル",
+  "base_artist": "biz",
+  "createdAt": "2026-01-06T09:40:55.191344Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シビル",
+      "artist": "biz, 缶缶",
+      "has_synced": false,
+      "path": "select/pl_01_シビル_biz,_缶缶.txt"
+    }
+  ]
+}
